@@ -1,4 +1,5 @@
 import 'react'
+import React from 'react'
 import { BsCart3} from 'react-icons/bs'
 
 const CartWidget = ()=> {
@@ -11,3 +12,5 @@ const CartWidget = ()=> {
     )}
 
     export default CartWidget
+
+    
